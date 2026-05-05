@@ -6,6 +6,8 @@
     "country": "Bangladesh",
     "position": "All-Rounder",
     "isAllRounder": true,
+    "role": "All-Rounder",
+    "rating": 92,
     "price": 950000,
     "playerPicture": "https://res.cloudinary.com/dbmx13yqz/image/upload/f_auto,q_auto/cricket-player-action-bating-lively-cartoon-image-batsman-takes-center-stage-as-swings-his-bat-determined-312528119_tqmpra"
   },
@@ -16,6 +18,8 @@
     "country": "Bangladesh",
     "position": "Batsman",
     "isAllRounder": false,
+    "role": "Batsman",
+    "rating": 85,
     "price": 800000,
     "playerPicture": "https://res.cloudinary.com/dbmx13yqz/image/upload/f_auto,q_auto/cricket-player-action-bating-lively-cartoon-image-batsman-takes-center-stage-as-swings-his-bat-determined-312528119_tqmpra"
   },
@@ -26,6 +30,8 @@
     "country": "India",
     "position": "Batsman",
     "isAllRounder": false,
+    "role": "Batsman",
+    "rating": 95,
     "price": 1200000,
     "playerPicture": "https://res.cloudinary.com/dbmx13yqz/image/upload/f_auto,q_auto/cricket-player-action-bating-lively-cartoon-image-batsman-takes-center-stage-as-swings-his-bat-determined-312528119_tqmpra"
   },
@@ -36,6 +42,8 @@
     "country": "India",
     "position": "Batsman",
     "isAllRounder": false,
+    "role": "Batsman",
+    "rating": 94,
     "price": 1150000,
     "playerPicture": "https://res.cloudinary.com/dbmx13yqz/image/upload/f_auto,q_auto/cricket-player-action-bating-lively-cartoon-image-batsman-takes-center-stage-as-swings-his-bat-determined-312528119_tqmpra"
   },
@@ -46,6 +54,8 @@
     "country": "Pakistan",
     "position": "Batsman",
     "isAllRounder": false,
+    "role": "Batsman",
+    "rating": 93,
     "price": 1100000,
     "playerPicture": "https://res.cloudinary.com/dbmx13yqz/image/upload/f_auto,q_auto/cricket-player-action-bating-lively-cartoon-image-batsman-takes-center-stage-as-swings-his-bat-determined-312528119_tqmpra"
   },
@@ -56,6 +66,8 @@
     "country": "Pakistan",
     "position": "Bowler",
     "isAllRounder": false,
+    "role": "Bowler",
+    "rating": 90,
     "price": 1000000,
     "playerPicture": "https://res.cloudinary.com/dbmx13yqz/image/upload/f_auto,q_auto/cricket-player-action-bating-lively-cartoon-image-batsman-takes-center-stage-as-swings-his-bat-determined-312528119_tqmpra"
   },
@@ -66,6 +78,8 @@
     "country": "England",
     "position": "All-Rounder",
     "isAllRounder": true,
+    "role": "All-Rounder",
+    "rating": 91,
     "price": 1050000,
     "playerPicture": "https://res.cloudinary.com/dbmx13yqz/image/upload/f_auto,q_auto/cricket-player-action-bating-lively-cartoon-image-batsman-takes-center-stage-as-swings-his-bat-determined-312528119_tqmpra"
   },
@@ -76,6 +90,8 @@
     "country": "England",
     "position": "Batsman",
     "isAllRounder": false,
+    "role": "Batsman",
+    "rating": 90,
     "price": 980000,
     "playerPicture": "https://res.cloudinary.com/dbmx13yqz/image/upload/f_auto,q_auto/cricket-player-action-bating-lively-cartoon-image-batsman-takes-center-stage-as-swings-his-bat-determined-312528119_tqmpra"
   },
@@ -86,6 +102,8 @@
     "country": "New Zealand",
     "position": "Batsman",
     "isAllRounder": false,
+    "role": "Batsman",
+    "rating": 91,
     "price": 900000,
     "playerPicture": "https://res.cloudinary.com/dbmx13yqz/image/upload/f_auto,q_auto/cricket-player-action-bating-lively-cartoon-image-batsman-takes-center-stage-as-swings-his-bat-determined-312528119_tqmpra"
   },
@@ -96,9 +114,12 @@
     "country": "New Zealand",
     "position": "Bowler",
     "isAllRounder": false,
+    "role": "Bowler",
+    "rating": 88,
     "price": 870000,
     "playerPicture": "https://res.cloudinary.com/dbmx13yqz/image/upload/f_auto,q_auto/cricket-player-action-bating-lively-cartoon-image-batsman-takes-center-stage-as-swings-his-bat-determined-312528119_tqmpra"
   },
+
   {
     "id": 11,
     "name": "Rashid Khan",
@@ -106,9 +127,12 @@
     "country": "Afghanistan",
     "position": "Bowler",
     "isAllRounder": false,
+    "role": "Bowler",
+    "rating": 89,
     "price": 850000,
     "playerPicture": "https://res.cloudinary.com/dbmx13yqz/image/upload/f_auto,q_auto/cricket-player-action-bating-lively-cartoon-image-batsman-takes-center-stage-as-swings-his-bat-determined-312528119_tqmpra"
   },
+
   {
     "id": 12,
     "name": "Mohammad Nabi",
@@ -116,9 +140,12 @@
     "country": "Afghanistan",
     "position": "All-Rounder",
     "isAllRounder": true,
+    "role": "All-Rounder",
+    "rating": 86,
     "price": 820000,
     "playerPicture": "https://res.cloudinary.com/dbmx13yqz/image/upload/f_auto,q_auto/cricket-player-action-bating-lively-cartoon-image-batsman-takes-center-stage-as-swings-his-bat-determined-312528119_tqmpra"
   },
+
   {
     "id": 13,
     "name": "David Warner",
@@ -126,9 +153,12 @@
     "country": "Australia",
     "position": "Batsman",
     "isAllRounder": false,
+    "role": "Batsman",
+    "rating": 92,
     "price": 1100000,
     "playerPicture": "https://res.cloudinary.com/dbmx13yqz/image/upload/f_auto,q_auto/cricket-player-action-bating-lively-cartoon-image-batsman-takes-center-stage-as-swings-his-bat-determined-312528119_tqmpra"
   },
+
   {
     "id": 14,
     "name": "Steve Smith",
@@ -136,9 +166,12 @@
     "country": "Australia",
     "position": "Batsman",
     "isAllRounder": false,
+    "role": "Batsman",
+    "rating": 93,
     "price": 1080000,
     "playerPicture": "https://res.cloudinary.com/dbmx13yqz/image/upload/f_auto,q_auto/cricket-player-action-bating-lively-cartoon-image-batsman-takes-center-stage-as-swings-his-bat-determined-312528119_tqmpra"
   },
+
   {
     "id": 15,
     "name": "Glenn Maxwell",
@@ -146,9 +179,12 @@
     "country": "Australia",
     "position": "All-Rounder",
     "isAllRounder": true,
+    "role": "All-Rounder",
+    "rating": 90,
     "price": 1020000,
     "playerPicture": "https://res.cloudinary.com/dbmx13yqz/image/upload/f_auto,q_auto/cricket-player-action-bating-lively-cartoon-image-batsman-takes-center-stage-as-swings-his-bat-determined-312528119_tqmpra"
   },
+
   {
     "id": 16,
     "name": "Hardik Pandya",
@@ -156,9 +192,12 @@
     "country": "India",
     "position": "All-Rounder",
     "isAllRounder": true,
+    "role": "All-Rounder",
+    "rating": 91,
     "price": 1120000,
     "playerPicture": "https://res.cloudinary.com/dbmx13yqz/image/upload/f_auto,q_auto/cricket-player-action-bating-lively-cartoon-image-batsman-takes-center-stage-as-swings-his-bat-determined-312528119_tqmpra"
   },
+
   {
     "id": 17,
     "name": "Andre Russell",
@@ -166,9 +205,12 @@
     "country": "West Indies",
     "position": "All-Rounder",
     "isAllRounder": true,
+    "role": "All-Rounder",
+    "rating": 92,
     "price": 1150000,
     "playerPicture": "https://res.cloudinary.com/dbmx13yqz/image/upload/f_auto,q_auto/cricket-player-action-bating-lively-cartoon-image-batsman-takes-center-stage-as-swings-his-bat-determined-312528119_tqmpra"
   },
+
   {
     "id": 18,
     "name": "Chris Gayle",
@@ -176,9 +218,12 @@
     "country": "West Indies",
     "position": "Batsman",
     "isAllRounder": false,
+    "role": "Batsman",
+    "rating": 90,
     "price": 950000,
     "playerPicture": "https://res.cloudinary.com/dbmx13yqz/image/upload/f_auto,q_auto/cricket-player-action-bating-lively-cartoon-image-batsman-takes-center-stage-as-swings-his-bat-determined-312528119_tqmpra"
   },
+
   {
     "id": 19,
     "name": "Jasprit Bumrah",
@@ -186,9 +231,12 @@
     "country": "India",
     "position": "Bowler",
     "isAllRounder": false,
+    "role": "Bowler",
+    "rating": 94,
     "price": 1050000,
     "playerPicture": "https://res.cloudinary.com/dbmx13yqz/image/upload/f_auto,q_auto/cricket-player-action-bating-lively-cartoon-image-batsman-takes-center-stage-as-swings-his-bat-determined-312528119_tqmpra"
   },
+
   {
     "id": 20,
     "name": "Mitchell Starc",
@@ -196,6 +244,8 @@
     "country": "Australia",
     "position": "Bowler",
     "isAllRounder": false,
+    "role": "Bowler",
+    "rating": 93,
     "price": 1080000,
     "playerPicture": "https://res.cloudinary.com/dbmx13yqz/image/upload/f_auto,q_auto/cricket-player-action-bating-lively-cartoon-image-batsman-takes-center-stage-as-swings-his-bat-determined-312528119_tqmpra"
   }

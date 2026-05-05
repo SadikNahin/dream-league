@@ -20,14 +20,14 @@ const Credit = ({ handleAddAmt }) => {
 
 
     return (
-        <div className="relative w-full bg-gradient-to-br from-black to-black">
-            <img src={bg} alt="" />
+        <div className="relative w-full bg-gradient-to-br from-black to-black rounded-2xl">
+            <img className="rounded-2xl" src={bg} alt="" />
 
             <div>
                 
 
                 <img
-                    className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"
+                    className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 rounded-2xl "
                     src={bannerMain}
                     alt=""
                 />
