@@ -1,9 +1,16 @@
 import logo from "../../assets/logo.png";
+import { CiCoinInsert } from "react-icons/ci";
 
-const Header = () => {
-    return (
-        <div className="flex justify-between p-8 items-center">
-            <div>
+const Header = ({credits}) => {
+
+
+
+
+
+
+  return (
+    <div className="flex justify-between p-8 items-center">
+      <div>
         <img className="w-full" src={logo} alt="" />
       </div>
       <div className="flex items-center gap-6">
@@ -15,14 +22,14 @@ const Header = () => {
           <a href="#" className="hover:text-blue-500">Schedule</a>
         </nav>
 
-        <button className="bg-blue-600 text-white px-4 py-2 rounded-full hover:bg-blue-700 transition">
-          Get Started
+        <button className="flex items-center  border-2 rounded-2xl gap-2 px-4 py-2">
+          {credits} coin <CiCoinInsert className="bg-amber-300 rounded-full" />
         </button>
 
       </div>
 
-        </div>
-    );
+    </div>
+  );
 };
 
 export default Header;
