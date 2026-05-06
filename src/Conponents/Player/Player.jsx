@@ -45,8 +45,7 @@ const Player = ({ player,handleChoosePlayer }) => {
 
                 <div className="flex justify-between items-center">
                     <p>Price : {price}</p>
-                    <button
-                     handleChoosePlayer={handleChoosePlayer} onClick={()=>handleChoosePlayer(player)} className="bg-amber-100 p-3 rounded-2xl font-bold">Choose Player</button>
+                    <button onClick={()=>handleChoosePlayer(player)} className="bg-amber-100 p-3 rounded-2xl font-bold">Choose Player</button>
 
                 </div>
 

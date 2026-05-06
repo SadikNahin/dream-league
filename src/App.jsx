@@ -3,6 +3,7 @@ import Header from "./Conponents/Header/Header";
 import Credit from "./Conponents/Credit/Credit";
 import Players from "./Conponents/Players/Players";
 import SelectedPlayers from "./Conponents/SelectedPlayers/SelectedPlayers";
+import Footer from "./Conponents/Footer/Footer";
 
 import { useState, useEffect } from "react";
 
@@ -110,6 +111,8 @@ setPlayers((prev)=>[...prev,player])
 
 
       </div>
+      <Footer></Footer>
+        
     </>
   );
 }
