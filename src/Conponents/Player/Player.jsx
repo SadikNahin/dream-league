@@ -1,4 +1,9 @@
-const Player = ({ player }) => {
+
+
+
+
+
+const Player = ({ player,handleChoosePlayer }) => {
     const { profilePicture, playerPicture, name, country, role, rating, price } = player;
 
     return (
@@ -38,9 +43,10 @@ const Player = ({ player }) => {
             <div>
                 <p>Rating : {rating}</p>
 
-                <div className="flex justify-between">
+                <div className="flex justify-between items-center">
                     <p>Price : {price}</p>
-                    <button>Choose Player</button>
+                    <button
+                     handleChoosePlayer={handleChoosePlayer} onClick={()=>handleChoosePlayer(player)} className="bg-amber-100 p-3 rounded-2xl font-bold">Choose Player</button>
 
                 </div>
 
